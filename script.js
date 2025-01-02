@@ -226,7 +226,7 @@ window.onload = function(){
             health += 10;
           }
         }
-      } 
+      }
       
     }
     animate();
